@@ -1,4 +1,4 @@
-# Springer-R-book
+# Luminescence Data Analysis and simulations using R
 
 
 This repository contains the R codes from the book:
@@ -9,6 +9,7 @@ This repository contains the R codes from the book:
 **by Vasilis Pagonis**
 
 **Springer, 2021**
+
 
 
 **HOW THE R CODES ARE ORGANIZED**
