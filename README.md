@@ -1,13 +1,4 @@
 # Springer-R-book
----
-title: "Luminescence Data Analysis and simulations using R"
-author: "Vasilis Pagonis"
-output: 
-  html_document: 
-    toc: yes
-    fig_caption: yes
-    keep_md: yes
----
 
 
 This repository contains the R codes from the book:
