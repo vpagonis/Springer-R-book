@@ -10,8 +10,7 @@ This repository contains the R codes from the book:
 
 **Springer, 2021**
 
-
-
+__________________________________
 **HOW THE R CODES ARE ORGANIZED**
 
 The book contains 99 R codes, which are self contained and ready to run. The codes are organized in folders by chapter, and each folder contains the R codes and a pdf file 
@@ -23,6 +22,8 @@ which shows the expected output from the codes.
 
 which shows the expected output from the codes in this folder.
 
+__________________________________
+
 **DATA FILES USED BY THE R CODES**
 
 In addition, the folders may contain some data files (.txt or .asc format). These data files are used by some of the R codes, so they should always be located in the appropriate working directory.
@@ -31,6 +32,8 @@ For example,  _Chapter 2 folder_ contains the file
    _lbodata.txt_
 
 which is used by the some of the codes in Chapter 2.
+
+__________________________________
 
 **GENERAL INFORMATION OF THE R CODES**
 
@@ -54,6 +57,8 @@ Throughout the book, both localized and delocalized transition
 models are simulated using the new R-package **RLumCarlo**.
 
 **-BEST WISHES AND ENJOY!-_**
+
 V. Pagonis
+
 Email: vpagonis@mcdaniel.edu
 
