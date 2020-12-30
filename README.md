@@ -1,10 +1,11 @@
-# Luminescence Data Analysis and simulations using R
-
+# Luminescence 
+# Data Analysis and simulations using R
 
 This repository contains all the R scripts from the book:
 
 
-**Luminescence Data Analysis and simulations using R**
+**Luminescence (Use R!)**
+**Data Analysis and simulations using R**
 
 **by Vasilis Pagonis**
 
@@ -13,12 +14,12 @@ This repository contains all the R scripts from the book:
 
 For a detailed Table of Contents and a Listing of the R codes, see the included pdf file:
 
-_Table of Contents and List of Codes_
+_Table of Contents and List of Codes.pdf_
 
 __________________________________
 **HOW THE R CODES ARE ORGANIZED**
 
-The book contains 99 R scripts, which are self contained and ready to run. The codes are organized in folders by chapter, and each folder contains the R codes, and a pdf file 
+The book contains 99 scripts, which are self contained and ready to run. The codes are organized in folders by chapter, and each folder contains the R codes, and a pdf file 
 which shows the expected output from the codes. 
   
 For example, _Chapter 2 folder_ contains the file
@@ -67,4 +68,5 @@ If you find that some script is not clear or inaccurate, let me know at
 _vpagonis@mcdaniel.edu_
 
 Enjoy!
+
 Vasilis Pagonis
