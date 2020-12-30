@@ -38,7 +38,7 @@ For example,  _Chapter 2 folder_ contains the file
 
    _lbodata.txt_
 
-which is used by the some of the codes in Chapter 2.
+which is used by some of the codes in Chapter 2.
 
 __________________________________
 
@@ -64,9 +64,13 @@ Throughout the book, both localized and delocalized transition luminescence
 models are simulated using the new R-package **_RLumCarlo_**.
 
 I hope you will find the scripts useful and that you will enjoy running and modifying the various files.
-If you find that some script is not clear or inaccurate, let me know at
+If you find that some script is not clear or has inaccuracies, kindly let me know at
 _vpagonis@mcdaniel.edu_
 
 Enjoy!
 
 Vasilis Pagonis
+
+Professor of Physics Emeritus
+
+McDaniel College, USA
