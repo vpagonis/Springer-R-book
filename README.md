@@ -42,7 +42,7 @@ which is used by some of the codes in Chapter 2.
 
 __________________________________
 
-**GENERAL INFORMATION OF THE R CODES**
+**GENERAL INFORMATION ABOUT THE R CODES**
 
 I have kept the number of required external R packages intentionally
 at a minimum, so that newcomers to R can follow the R codes easily.
