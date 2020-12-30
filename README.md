@@ -1,4 +1,4 @@
-# Luminescence 
+# Luminescence (Use R! series)
 # Data Analysis and simulations using R
 
 This repository contains all the R scripts from the book:
