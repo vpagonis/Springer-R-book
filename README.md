@@ -11,6 +11,14 @@ This repository contains all the R scripts from the book:
 
 **Springer, 2021**
 
+__________________________________
+
+**ABOUT THIS BOOK**
+
+The following chart shows the overall organization of the book:
+
+![Organization](/images/overview TLOSLbook.PNG]
+Format: ![Alt text](url)
 
 For a detailed Table of Contents and a Listing of the R codes, see the included pdf file:
 
