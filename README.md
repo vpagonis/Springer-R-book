@@ -17,8 +17,8 @@ __________________________________
 
 The following chart shows the overall organization of the book:
 
-![Organization](/overview TLOSLbook.PNG]
-Format: ![Alt text](url)
+<img width="900"
+src="https://github.com/vpagonis/Springer-R-book/blob/main/overview%20TLOSLbook.png">
 
 For a detailed Table of Contents and a Listing of the R codes, see the included pdf file:
 
