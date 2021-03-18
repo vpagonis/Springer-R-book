@@ -1,6 +1,7 @@
 # Luminescence (Use R! series)
 # Data Analysis and simulations using R
 
+[![DOI](https://zenodo.org/badge/324629435.svg)](https://zenodo.org/badge/latestdoi/324629435)
 
 This repository contains all the R scripts from the book:
 
