@@ -1,6 +1,8 @@
 # Luminescence (Use R! series)
 # Data Analysis and simulations using R
 
+You can download all the R codes as a single zipped folder, by clicking on the Zenodo blue box below:
+
 [![DOI](https://zenodo.org/badge/324629435.svg)](https://zenodo.org/badge/latestdoi/324629435)
 
 This repository contains all the R scripts from the book:
